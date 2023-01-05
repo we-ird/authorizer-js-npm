@@ -90,6 +90,7 @@ export declare type MetaData = {
     version: string;
     client_id: string;
     is_google_login_enabled: boolean;
+    is_vk_login_enabled: boolean;
     is_facebook_login_enabled: boolean;
     is_github_login_enabled: boolean;
     is_linkedin_login_enabled: boolean;
